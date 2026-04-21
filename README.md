@@ -10,7 +10,7 @@ Building deep learning systems for medical image analysis. Currently developing 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **Horus** | Multi-class retinal disease classification via fundus imaging (dissertation) | PyTorch, MONAI, CUDA, MaxViT, ConvNeXtV2 |
-| [MIRAGE]([https://github.com/MethuselahsChild/mirage-v2](https://github.com/MethuselahsChild/MIRAGE)) | Retrieval-augmented document intelligence with OCR and semantic search | FastAPI, PaddleOCR, SQLite |
+| [MIRAGE]([https://github.com/MethuselahsChild/mirage-v2](https://github.com/MethuselahsChild/MIRAGE) | Retrieval-augmented document intelligence with OCR and semantic search | FastAPI, PaddleOCR, SQLite |
 | [GAN CIFAR-10](https://github.com/MethuselahsChild/gan-cifar10) | Generative adversarial network for image synthesis | TensorFlow, Keras, CUDA |
 | [NLP Chatbot](https://github.com/MethuselahsChild/nlp-chatbot) | Closed-domain conversational agent with location-aware recommendations | PyTorch, NLTK, Google Maps API |
 | [Face Detection](https://github.com/MethuselahsChild/face-detection-privacy) | Face detection and privacy preservation pipeline | OpenCV, Haar Cascades |
